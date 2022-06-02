@@ -1,0 +1,15 @@
+br\edu\ifsul\modelo\Corretor.class
+br\edu\ifsul\modelo\Cobertura.class
+br\edu\ifsul\modelo\Sinistro.class
+br\edu\ifsul\modelo\testes\TestePersistirSinistro.class
+br\edu\ifsul\modelo\testes\TestePersistirSeguro.class
+br\edu\ifsul\modelo\testes\TestePersistirCarro.class
+br\edu\ifsul\modelo\Pessoa.class
+br\edu\ifsul\modelo\testes\TestePersistirCobertura.class
+br\edu\ifsul\modelo\Seguro.class
+br\edu\ifsul\modelo\Acessorios.class
+br\edu\ifsul\modelo\testes\TestePersistirPessoa.class
+br\edu\ifsul\modelo\testes\TestePersistirAcessorioCarro.class
+br\edu\ifsul\modelo\testes\TestePersistirCorretor.class
+br\edu\ifsul\modelo\Carro.class
+br\edu\ifsul\modelo\testes\TestePersistirAcessorio.class
